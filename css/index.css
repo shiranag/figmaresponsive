@@ -3,3 +3,20 @@
     justify-content: space-between;
 }
 
+.menu_out{
+    display: flex;
+    border: 1px solid black;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    line-height: 40px;
+    background-color: black;
+    border-right: 0;
+   
+}
+
+.menu_in{
+    background-color: #F5FF7D;
+    padding-left: 20px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
